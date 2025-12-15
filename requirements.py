@@ -1,0 +1,6 @@
+Flask>=2.1.0
+Werkzeug>=2.1.0
+
+Gunicorn
+
+

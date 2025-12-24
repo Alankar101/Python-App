@@ -9,7 +9,7 @@ project/
 │── app.py
 │── requirements.txt
 
----
+----
 
 ## Prerequisites
 - Python 3.8+
